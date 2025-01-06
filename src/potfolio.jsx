@@ -113,7 +113,7 @@ function Portfolio() {
 
             <div className="resumebtn">
               <a
-                href="https://drive.google.com/file/d/1rbsi4KDd_8Nk34gwqdrDxvVfnGEaNe4T/view?usp=sharing"
+                href="https://drive.google.com/file/d/1oPCbfQOBsfWmCeu_iXv3YtYb2GZsGzu-/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn"
