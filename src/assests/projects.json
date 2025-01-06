@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Development of Feature Extraction Techniques using CNN for Weld Radiography Interpreatation",
+    "desc": "This project develops a Spotify clone featuring music streaming, playlist management, and a user-friendly interface, leveraging modern frameworks for seamless performance.",
+    "image": "notystackandroid",
+    "category": "android",
+    "links": {
+      "view": "https://github.com/RakeshReddy21/Weld-radiography-CNN",
+      "code": "https://github.com/RakeshReddy21/Weld-radiography-CNN"
+    }
+  },
+  {
+    "name": "Attendence Monitoring Sytem Using ML",
+    "desc": "The Attendance Monitoring System uses Machine Learning and OpenCV for real-time face detection, CSV data management, and a 70% reduction in attendance recording time.",
+    "image": "sppuprepandroid",
+    "category": "android",
+    "links": {
+      "view": "https://github.com/RakeshReddy21/Attendence-monitoring-system-using-ML",
+      "code": "https://github.com/RakeshReddy21/Attendence-monitoring-system-using-ML"
+    }
+  },
+  {
+    "name": "Spotify Clone",
+    "desc": "This project develops a Spotify clone featuring music streaming, playlist management, and a user-friendly interface, leveraging modern frameworks for seamless performance.",
+    "image": "newsboxandroid",
+    "category": "android",
+    "links": {
+      "view": "https://rakeshreddy21.github.io/spotifyclone/spot.html",
+      "code": "https://github.com/RakeshReddy21/spotifyclone"
+    }
+  },
+  {
+    "name": "Resume Generator",
+    "desc": "This project develops a Resume Generation Uses for generatoring the resume this developed by using the ReactJs which makes easier to get the Resume Instantly",
+    "image": "Untitled",
+    "category": "android",
+    "links": {
+      "view": "https://team-ten-pied.vercel.app/",
+      "code": "https://github.com/RakeshReddy21/personal-portfolio"
+      
+    }
+  },
+  {
+    "name": "Real-Time Chat Application",
+    "desc": "A real-time chat application inspired by WhatsApp, built to enable seamless communication between users with features like real-time messaging, user authentication, and a modern UI/UX.",
+    "image": "chat-app",
+    "category": "android",
+    "links": {
+      "view": "https://chat-frontend-ashy.vercel.app/",
+      "code": "https://github.com/RakeshReddy21/whats-app"
+    }
+  },
+  {
+    "name": "Whats-app Clone",
+    "desc": "Clone of Whats-app using basic html,css",
+    "image": "whatsapp",
+    "category": "android",
+    "links": {
+      "view": "https://rakeshreddy21.github.io/chatbox/ui.html",
+      "code": "https://github.com/RakeshReddy21/whats-app"
+    }
+  }
+]
